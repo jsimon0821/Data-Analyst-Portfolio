@@ -1,3 +1,4 @@
 # Joshua Simon - Data Analyst Portfolio
 Hello, I'm Joshua! I have a bachelor's degree in Statistics and currently work as a Business Systems Analyst, working with a school district in providing insight into our collective stored data. I have extensive experience with SQL query building as well as SSRS Reports, PowerBI analytics and dashboards, and Python programming, particularly with NumPy and Pandas data analytics. My focus is working with senior leadership within the school district to translate data requests into actionable insights, enable informed decision making and creating operational efficiency within the educational environment.
 
+I am looking to find a career where I can pursue further experience as a data analyst or a similar role that encompasses data driven analytics. In my "Projects" repository, I have attached a number of data projects in SQL, PowerBI and Python that I have designed.
